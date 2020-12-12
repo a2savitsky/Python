@@ -1,0 +1,10 @@
+{
+  "link": "https://vk.com/",
+  "testrail_url": "***",
+  "vk_api_url": "https://api.vk.com/method/",
+  "browser": "chrome",
+  "lang": "ru",
+  "downloads_path": "downloads",
+  "explicitly_wait": 10,
+  "implicitly_wait": 0
+}
